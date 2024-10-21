@@ -1,0 +1,10 @@
+
+.background-div {
+    background-image: url("../Module 1/Images/Screenshot%202024-10-21%20at%2012.37.27.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    text-align: center; 
+    color: black; 
+}
